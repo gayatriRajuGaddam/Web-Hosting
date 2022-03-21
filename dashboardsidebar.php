@@ -131,9 +131,7 @@
       <a href="domainnames.php">
         <i class="fa fa-home" aria-hidden="true"></i>Domain Names
       </a>
-        <a href="domainnames.php">
-        <i class="fa fa-home" aria-hidden="true"></i>Domain Names
-      </a>
+        
     </li>
     <li>
       <a href="newdomain.php">
